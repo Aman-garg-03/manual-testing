@@ -1,8 +1,7 @@
 # Manual Testing Project - Flight Booking Application
 
 ## 📋 Project Overview
-This repository contains comprehensive manual testing documentation for a Flight Booking web application. The project demonstrates end-to-end QA processes including test planning, execution, defect tracking, and sprint retrospectives.
-
+This repository contains comprehensive manual testing documentation for a Flight Booking web application. 
 ## 🎯 Testing Scope
 - **Login Functionality** - User authentication and validation
 - **Flight Search** - Search flights by number, name, and criteria
@@ -36,14 +35,7 @@ This repository contains comprehensive manual testing documentation for a Flight
 └── README.md                               # Project documentation
 ```
 
-## 📅 Project Timeline
-| Phase | Duration | Activities |
-|-------|----------|------------|
-| Test Planning & Design | June 20-22, 2025 | Test case creation, data sheet preparation |
-| Test Execution Cycle 1 | June 23-25, 2025 | Execute test cases, log defects |
-| Regression & Re-testing | June 26-28, 2025 | Verify fixes, regression testing |
-| Final Reporting | June 29-Jul 1, 2025 | Bug report, execution report |
-| Sign-off | Jul 2-4, 2025 | Stakeholder approval |
+
 
 ## ✅ Key Deliverables
 - Master Test Plan
@@ -55,11 +47,7 @@ This repository contains comprehensive manual testing documentation for a Flight
 - Sprint Backlog
 - Sprint Retrospective Notes
 
-## 🔑 Key Achievements
-- ✅ 100% story completion for Sprint 1
-- ✅ Full test coverage (27/27 test cases executed)
-- ✅ 92.59% initial pass rate
-- ✅ Complete requirements traceability
+
 
 ## 🐛 Identified Issues
 - **BUG-2**: High-priority defect in booking flow (page redirection issue)
@@ -70,11 +58,7 @@ This repository contains comprehensive manual testing documentation for a Flight
 - **URL**: https://webapps.tekstac.com/FlightBooking/login.html
 - **Access Roles**: QA and Admin
 
-## 📈 Quality Metrics
-- **Test Coverage**: 100%
-- **Pass Rate**: 92.59%
-- **Defect Density**: Low (2 failures out of 27 cases)
-- **Traceability**: Complete mapping between user stories and test cases
+
 
 ## 📝 Entry Criteria
 - Application deployed and stable
@@ -102,10 +86,3 @@ This repository contains comprehensive manual testing documentation for a Flight
 ## 📧 Contact
 **Test Lead**: Aman Garg
 
----
-
-## 📜 License
-This project is for educational and demonstration purposes.
-
-## 🙏 Acknowledgments
-Special thanks to the QA team for their dedication and thorough testing efforts.
