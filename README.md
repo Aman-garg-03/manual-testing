@@ -49,11 +49,6 @@ This repository contains comprehensive manual testing documentation for a Flight
 
 
 
-## 🐛 Identified Issues
-- **BUG-2**: High-priority defect in booking flow (page redirection issue)
-- Definition of Done needs refinement
-- Bug assignment process needs improvement
-
 ## 🌐 Test Environment
 - **URL**: https://webapps.tekstac.com/FlightBooking/login.html
 - **Access Roles**: QA and Admin
